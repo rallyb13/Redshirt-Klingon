@@ -1,0 +1,25 @@
+body{
+  background-color: #2f6a3a;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+#fail {
+  margin: 0 auto;
+  padding: 0 10%;
+  display: none;
+}
+
+p {
+  padding: 1em 2em;
+  background-color: white;
+  color: black;
+  margin-left: 10px;
+  width: 5em;
+  border-radius: 2em;
+  display: none;
+}
